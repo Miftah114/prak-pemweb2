@@ -1,7 +1,7 @@
 <?php
 
-// Nama   : IDZA RAMAULKIM
-// NIM    : 121140152
+// Nama   : MIFTAH HASAN
+// NIM    : 121140045
 // Kelas  : RB
 
 class Mahasiswa {
@@ -62,13 +62,13 @@ class Mahasiswa {
     }
 }
 
-$mahasiswa = new Mahasiswa("IDZA RAMAULKIM", "121140152", "Ilmu Komputer", "Jalan Mahasiswa No. 123");
+$mahasiswa = new Mahasiswa("MIFTAH HASAN", "121140045", "Ilmu Komputer", "Jalan Mahasiswa No. 123");
 
 echo "Data Mahasiswa Awal:<br>";
 $mahasiswa->tampilkanDataMahasiswa();
 
-$mahasiswa->setNama("IDZA RAMAULKIM");
-$mahasiswa->setNim("121140152");
+$mahasiswa->setNama("MIFTAH HASAN");
+$mahasiswa->setNim("121140045");
 $mahasiswa->setProdi("Teknik Informatika");
 $mahasiswa->setAlamat("Gedung Kuliah No. 456");
 
