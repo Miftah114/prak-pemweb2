@@ -1,6 +1,6 @@
 /*
-Nama  : Idza Ramaulkim
-NIM   : 121140152
+Nama  : Miftah Hasn Hadi Mohtar
+NIM   : 121140045
 Kelas : RB 
 */
 function clearDisplay() {
